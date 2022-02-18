@@ -1,0 +1,9 @@
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/CMakeFiles/rebuild_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/CMakeFiles/edit_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/CMakeFiles/docs.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/lib/CMakeFiles/rebuild_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/lib/CMakeFiles/edit_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/lib/CMakeFiles/foo.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/src/CMakeFiles/rebuild_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/src/CMakeFiles/edit_cache.dir
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/build/src/CMakeFiles/fooapp.dir

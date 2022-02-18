@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/include/foo/foo.h
+
+/home/lukas/Documents/TheNetworkProject/CMAKE_CPP_TEMPLATE/src/main.cpp
+foo/foo.h
+-
+iostream
+-
+string
+-
+
